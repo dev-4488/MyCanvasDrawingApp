@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MyCanvasDrawingApp.Tests/bin/Debug
+/MyCanvasDrawingApp.Tests/obj
+/packages
+/MyCanvasDrawingApp/obj
+/MyCanvasDrawingApp/bin/Debug

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCanvasDrawingApp", "MyCanvasDrawingApp\MyCanvasDrawingApp.csproj", "{C9359E3B-340F-4F89-A346-7E920298234D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCanvasDrawingApp.Tests", "MyCanvasDrawingApp.Tests\MyCanvasDrawingApp.Tests.csproj", "{80F76F87-4FF4-4F06-8922-0FBF909D50B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9359E3B-340F-4F89-A346-7E920298234D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9359E3B-340F-4F89-A346-7E920298234D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9359E3B-340F-4F89-A346-7E920298234D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9359E3B-340F-4F89-A346-7E920298234D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F76F87-4FF4-4F06-8922-0FBF909D50B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F76F87-4FF4-4F06-8922-0FBF909D50B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F76F87-4FF4-4F06-8922-0FBF909D50B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F76F87-4FF4-4F06-8922-0FBF909D50B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72862AF9-FBB2-45D7-9349-529BA613E479}
+	EndGlobalSection
+EndGlobal
